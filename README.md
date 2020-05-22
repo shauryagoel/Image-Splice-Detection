@@ -1,5 +1,5 @@
-# Image Splice Detection
-This projects localises the spliced portion present in images. It is an implementation of https://arxiv.org/pdf/1805.04096.pdf.
+# Image Splice Detection using EXIF metadata
+This projects localises the spliced portion present in images using EXIF metadata. It is an implementation of https://arxiv.org/pdf/1805.04096.pdf.
 
 ![combined_models](https://user-images.githubusercontent.com/23395833/82658838-59b60900-9c45-11ea-9435-4cb75854a26c.png)
 This is the architecture used in the paper.
